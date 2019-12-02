@@ -3,3 +3,4 @@ echo J
 echo J
 echo J
 date
+echo "$USER"
